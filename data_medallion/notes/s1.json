@@ -1,0 +1,17 @@
+{
+  "sale_id": "S1",
+  "customer_bk": "22233344405",
+  "store_bk": "LOJA-001",
+  "purchase_ts": "2025-02-27T08:00:00Z",
+  "merchant": "Loja Morumbi",
+  "cnpj": "12345678000195",
+  "cashier_id": "CASH-001",
+  "payment_method": "Cartao Debito",
+  "receipt_number": "RCPT-20250227-000981",
+  "items": [
+    {"product_bk": "SKU-0002", "description": "Camiseta Polo Algodão", "qty": 2, "unit_price": 79.90, "line_total": 159.80}
+  ],
+  "subtotal": 159.80,
+  "tax": 0.00,
+  "total": 159.80
+}

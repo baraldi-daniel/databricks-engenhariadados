@@ -1,0 +1,5 @@
+store_bk,store_name,cnpj,city,state,cluster,effective_ts
+LOJA-001,"loja morumbi  ","12.345.678/0001-95","São Paulo ",sp,cluster_a,"2023-01-01"
+LOJA-001,"Loja Morumbi","12345678000195","Sao Paulo",SP,B,"25/02/2025 00:00"
+LOJA-002,"Loja Barra","98.765.432/0001-10","rio de janeiro",RJ,B,"2023-06-15T00:00:00Z"
+loja-002,"Loja Barra","98765432000110","Rio de Janeiro",rj,b,"2023-06-15 00:00:00"

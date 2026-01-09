@@ -1,0 +1,2 @@
+sale_id,event_ts,customer_bk,product_bk,store_bk,units,unit_price,date_key
+S8,2025-03-01T18:45:29Z,55566677788,SKU-0002,LOJA-001,1,79.90,20250301

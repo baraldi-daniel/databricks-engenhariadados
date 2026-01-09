@@ -1,0 +1,5 @@
+customer_bk,customer_name,birth_date,segment,region,effective_ts
+22233344405,"Bruno Lima",1992-11-30,SMB,mg,"2024-06-01T00:00:00Z"
+"111.444.777-35"," Ana Souza ","14/05/1989"," varejo ","São Paulo","2024-01-01T00:00:00Z"
+55566677788,"Carla Mendes","02-09-1978",Varejo," MG ","2024-03-10 00:00:00"
+99988877766,"Diego Ferreira",,Enterprise,"RS ","2024-01-01T00:00:00Z"

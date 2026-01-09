@@ -1,0 +1,4 @@
+[2025-03-02 14:06:12Z] Agente: Olá, posso ajudar?
+[2025-03-02 14:06:18Z] Cliente (CPF 11144477735): Sobre a venda S7 (cafeteira SKU-0003), ela tem garantia de 1 ano?
+[2025-03-02 14:06:40Z] Agente: Sim, garantia de 12 meses contra defeitos de fabricação.
+[2025-03-02 14:06:55Z] Cliente: Perfeito, obrigada!

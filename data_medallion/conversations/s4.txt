@@ -1,0 +1,4 @@
+[2025-03-01 00:00:45Z] Agente: Olá! Vi aqui a venda S4 do notebook (SKU-0001).
+[2025-03-01 00:00:55Z] Cliente (CPF 11144477735): Isso. Queria confirmar se o carregador é bivolt.
+[2025-03-01 00:01:15Z] Agente: É bivolt automático (100–240V). Mais algo?
+[2025-03-01 00:01:25Z] Cliente: Só isso. Obrigada!

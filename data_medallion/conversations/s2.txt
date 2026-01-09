@@ -1,0 +1,4 @@
+[2025-02-28 10:16:15Z] Agente: Olá, tudo bem?
+[2025-02-28 10:16:23Z] Cliente (CPF 11144477735): Comprei o notebook (SKU-0001) na venda S2. Posso estender a garantia?
+[2025-02-28 10:16:52Z] Agente: Sim, temos garantia estendida de 12 meses. Posso enviar o link por e-mail?
+[2025-02-28 10:17:08Z] Cliente: Pode, por favor. Obrigada!

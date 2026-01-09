@@ -1,0 +1,4 @@
+[2025-02-27 08:01:10Z] Agente: Bom dia! Em que posso ajudar?
+[2025-02-27 08:01:20Z] Cliente (CPF 22233344405): Olá! Minha compra S1 foi de uma camiseta (SKU-0002). Queria confirmar a política de troca.
+[2025-02-27 08:01:45Z] Agente: Claro. Na Loja Morumbi (LOJA-001), você tem 30 dias com a etiqueta intacta.
+[2025-02-27 08:02:05Z] Cliente: Perfeito. Obrigado!

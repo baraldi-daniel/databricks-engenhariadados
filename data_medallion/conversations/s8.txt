@@ -1,0 +1,4 @@
+[2025-03-01 18:46:10Z] Agente: Boa tarde! Em que posso ajudar?
+[2025-03-01 18:46:18Z] Cliente (CPF 55566677788): Minha compra S8 foi uma camiseta (SKU-0002). Como verificar a tabela de medidas?
+[2025-03-01 18:46:40Z] Agente: Envio agora o link da tabela. Qualquer dúvida, estamos à disposição.
+[2025-03-01 18:46:55Z] Cliente: Obrigada!

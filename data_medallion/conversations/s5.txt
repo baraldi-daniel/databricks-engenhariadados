@@ -1,0 +1,4 @@
+[2025-03-01 12:31:10Z] Agente: Olá, aqui é do suporte da Loja Barra.
+[2025-03-01 12:31:18Z] Cliente (CPF 22233344405): O notebook (SKU-0001), venda S5, vem com Windows?
+[2025-03-01 12:31:40Z] Agente: Sim, Windows 11 Home. A licença já vem ativada.
+[2025-03-01 12:31:55Z] Cliente: Perfeito, obrigado!

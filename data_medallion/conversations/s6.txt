@@ -1,0 +1,4 @@
+[2025-03-02 09:31:05Z] Agente: Bom dia! Referente à compra S6?
+[2025-03-02 09:31:12Z] Cliente (CPF 11144477735): Isso. Foram 3 camisetas (SKU-0002). Posso pedir tamanhos diferentes?
+[2025-03-02 09:31:40Z] Agente: Sim, cada item pode ter tamanho distinto. Posso ajustar o pedido?
+[2025-03-02 09:31:55Z] Cliente: Sim, M, M e G. Obrigada!

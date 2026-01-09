@@ -1,0 +1,2 @@
+{"ticket_id":"T-9001","customer_bk":"11144477735","created_ts":"2025-03-02T15:00:00Z","channel":"email","subject":"Dúvida sobre garantia","body":"Comprei ontem e gostaria de saber sobre a garantia do notebook.","status":"OPEN","related_product_bk":"SKU-0001"}
+{"ticket_id":"T-9002","customer_bk":"22233344405","created_ts":"2025-03-01T13:15:00Z","channel":"chat","subject":"Tamanho da camiseta","body":"A camiseta P e M possuem medidas diferentes de ombro?","status":"CLOSED","related_product_bk":"SKU-0002"}

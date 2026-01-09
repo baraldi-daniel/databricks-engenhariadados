@@ -1,0 +1,17 @@
+{
+  "sale_id": "S3",
+  "customer_bk": "11144477735",
+  "store_bk": "LOJA-002",
+  "purchase_ts": "2025-02-28T23:59:59Z",
+  "merchant": "Loja Barra",
+  "cnpj": "98765432000110",
+  "cashier_id": "CASH-008",
+  "payment_method": "PIX",
+  "receipt_number": "RCPT-20250228-009876",
+  "items": [
+    {"product_bk": "SKU-0003", "description": "Cafeteira Elétrica Mondial Inox", "qty": 1, "unit_price": 219.90, "line_total": 219.90}
+  ],
+  "subtotal": 219.90,
+  "tax": 0.00,
+  "total": 219.90
+}

@@ -1,0 +1,4 @@
+[2025-02-28 23:59:30Z] Agente: Boa noite, em que posso ajudar?
+[2025-02-28 23:59:40Z] Cliente (CPF 11144477735): Acabei de comprar a cafeteira (SKU-0003), venda S3. Tem filtro permanente?
+[2025-02-28 23:59:55Z] Agente: Sim, o modelo inox usa filtro permanente. Manual segue por e-mail.
+[2025-03-01 00:00:10Z] Cliente: Obrigada!

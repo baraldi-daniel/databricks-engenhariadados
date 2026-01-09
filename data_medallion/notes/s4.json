@@ -1,0 +1,17 @@
+{
+  "sale_id": "S4",
+  "customer_bk": "11144477735",
+  "store_bk": "LOJA-001",
+  "purchase_ts": "2025-03-01T00:00:00Z",
+  "merchant": "Loja Morumbi",
+  "cnpj": "12345678000195",
+  "cashier_id": "CASH-002",
+  "payment_method": "Cartao Credito",
+  "receipt_number": "RCPT-20250301-000123",
+  "items": [
+    {"product_bk": "SKU-0001", "description": "Notebook Lenovo Ideapad 3 15\"", "qty": 1, "unit_price": 2799.90, "line_total": 2799.90}
+  ],
+  "subtotal": 2799.90,
+  "tax": 0.00,
+  "total": 2799.90
+}

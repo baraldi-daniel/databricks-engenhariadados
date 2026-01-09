@@ -1,0 +1,4 @@
+{"event_id":"POS-evt-001","store_bk":"LOJA-001","sale_id":"S2","event_ts":"2025-02-28T10:15:05Z","event_type":"PAYMENT_AUTH","status":"APPROVED","device_id":"POS-001"}
+{"event_id":"POS-evt-002","store_bk":"LOJA-002","sale_id":"S3","event_ts":"2025-02-28T23:59:59Z","event_type":"PAYMENT_CAPTURE","status":"DONE","device_id":"POS-002"}
+{"event_id":"POS-evt-003","store_bk":"LOJA-001","sale_id":"S4","event_ts":"2025-03-01T00:00:02Z","event_type":"RECEIPT_PRINT","status":"SUCCESS","device_id":"POS-001"}
+{"event_id":"POS-evt-004","store_bk":"LOJA-002","sale_id":"S6","event_ts":"2025-03-02T09:30:10Z","event_type":"PAYMENT_CAPTURE","status":"DONE","device_id":"POS-002"}

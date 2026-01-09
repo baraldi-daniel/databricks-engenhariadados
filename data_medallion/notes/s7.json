@@ -1,0 +1,17 @@
+{
+  "sale_id": "S7",
+  "customer_bk": "11144477735",
+  "store_bk": "LOJA-001",
+  "purchase_ts": "2025-03-02T14:05:00Z",
+  "merchant": "Loja Morumbi",
+  "cnpj": "12345678000195",
+  "cashier_id": "CASH-004",
+  "payment_method": "Cartao Credito",
+  "receipt_number": "RCPT-20250302-006789",
+  "items": [
+    {"product_bk": "SKU-0003", "description": "Cafeteira Elétrica Mondial Inox", "qty": 2, "unit_price": 219.90, "line_total": 439.80}
+  ],
+  "subtotal": 439.80,
+  "tax": 0.00,
+  "total": 439.80
+}
